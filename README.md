@@ -50,7 +50,7 @@ I build full‑stack applications with Django, React, and a passion for clean UX
 
 ## 🌐 Find me elsewhere
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-9b7ba8?style=flat-square&logo=netlify&logoColor=white)](https://aghogracious-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-9b7ba8?style=flat-square&logo=netlify&logoColor=white)](https://aghogracious.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/agho-ivie-gracious)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ivieagho29@gmail.com)
 
