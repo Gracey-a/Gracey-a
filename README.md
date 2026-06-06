@@ -40,14 +40,6 @@ I build full‑stack applications with Django, React, and a passion for clean UX
 
 ---
 
-## 📊 My GitHub stats
-
-![Agho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gracey-a&show_icons=true&theme=dark&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gracey-a&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🌐 Find me elsewhere
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-9b7ba8?style=flat-square&logo=netlify&logoColor=white)](https://aghogracious.dev)
