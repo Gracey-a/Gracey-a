@@ -42,9 +42,10 @@ I build full‑stack applications with Django, React, and a passion for clean UX
 
 ## 📊 My GitHub stats
 
-![Agho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gracey-a&show_icons=true&theme=radical)
+![Agho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gracey-a&show_icons=true&theme=dark&hide_border=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gracey-a&layout=compact&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gracey-a&layout=compact&theme=dark&hide_border=true)
+
 
 ---
 
@@ -56,4 +57,4 @@ I build full‑stack applications with Django, React, and a passion for clean UX
 
 ---
 
-✨ *I love turning ideas into functional, beautiful web apps. If you're looking for a dedicated junior developer who ships, let's talk.*
+✨I love turning ideas into functional, beautiful web apps. If you're looking for a dedicated developer who ships real production code, let's talk.*
