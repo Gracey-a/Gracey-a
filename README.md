@@ -46,7 +46,6 @@ I build full‑stack applications with Django, React, and a passion for clean UX
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gracey-a&layout=compact&theme=dark&hide_border=true)
 
-
 ---
 
 ## 🌐 Find me elsewhere
